@@ -1,27 +1,26 @@
-## Hi there 👋
-#  Ing. Théophile OTODJI
+# Théophile OTODJI
 
-**Data Scientist Engineer (Finance) · Researcher in Applied Mathematics**
+**MSc Data Science (Finance track) at Université Paris-Saclay · Data Analyst · Researcher in Applied Statistics**
 
-📍 Paris Saclay, France &nbsp;·&nbsp; [ORCID 0009-0003-0389-9007](https://orcid.org/0009-0003-0389-9007)
+📍 Paris area, France &nbsp;·&nbsp; [ORCID 0009-0003-0389-9007](https://orcid.org/0009-0003-0389-9007) &nbsp;·&nbsp; otodjitheodule@gmail.com
 
 ## About me
 
-I work at the intersection of statistics, finance and software. My research
-focuses on **probability distribution theory**: building new families of
-distributions, studying their mathematical properties, and applying them to
-real data in finance, actuarial science, engineering and socio-economic
-development.
+I am a statistics and finance engineer, currently completing a Master 2 in Data
+Science (Finance track) at Université Paris-Saclay, with about three years of
+experience in data analysis in industry.
 
-I also turn this research into open-source tools: I am the author and
-maintainer of two R packages published on CRAN.
+My research is in **probability distribution theory**: building new families of
+distributions, studying their properties, and applying them to data in finance,
+actuarial science, engineering and socio-economic development. I turn this
+research into open-source software.
 
-**Research interests**
+**At a glance**
 
-- New families of probability distributions (Topp-Leone, Kumaraswamy, Arctan-X, Lomax-X, T-X)
-- Heavy-tailed modeling and risk measures for financial and actuarial data
-- Maximum likelihood estimation and Monte Carlo simulation
-- Statistical computing and R package development
+- 📦 Author and maintainer of **2 R packages** published on CRAN
+- 📄 Co-author of **6 articles** in international peer-reviewed journals
+- 💼 About **3 years** of industry experience in data analysis and business intelligence
+- 🎓 Lecturer in Probability and Sampling Theory (African School of Economics)
 
 ## R packages
 
@@ -33,6 +32,34 @@ maintainer of two R packages published on CRAN.
 ```r
 install.packages(c("NTLKwIEx", "PTLENKies"))
 ```
+
+## Experience
+
+**Data Intelligence & Optimisation Officer** — ARESS SAS, Cotonou (Benin) & France · *05/2025 – 09/2026*
+Reported directly to the CEO: sales analysis, business intelligence, evaluation
+of technical offers and monthly KPI reporting. Built management tools and
+energy-fraud detection algorithms.
+
+**Lecturer** — African School of Economics, Cotonou (Benin) · *05/2026 – 06/2026*
+Designed and taught 25 hours of Probability and 25 hours of Sampling Theory to
+first-year students in Economics-Statistics and Computer Science-Statistics.
+
+**Data Analyst** — ARESS SAS, Cotonou (Benin) & France · *02/2024 – 05/2025*
+Analysis of unpaid receivables and modeling of the Pay-As-You-Go scheme. Built a
+data collection tool with Kobo Collect and sales-trend prediction models.
+
+**Research internships** — UNESCO Chair (ICMPA), Abomey-Calavi · *06/2023 – 12/2023* and MIFY, Abomey-Calavi · *08/2022 – 10/2022*
+Statistical distribution theory, machine learning and deep learning; advanced
+training in R, Python and Mathematica.
+
+## Education
+
+| Degree | Institution | Years |
+|:---|:---|:---|
+| Master 2 in Data Science, Finance track | Université Paris-Saclay (France) | ongoing |
+| Master 2 in Statistics Applied to Living Systems | International Chair in Mathematical Physics and Applications (Benin) | 2024 – 2025 |
+| Engineering degree in Statistics and Finance | National Higher School of Mathematical Engineering and Modeling (Benin) | 2020 – 2023 |
+| Preparatory classes for engineering studies | National Higher Institute of Preparatory Classes (Benin) | 2018 – 2020 |
 
 ## Publications
 
@@ -82,11 +109,33 @@ install.packages(c("NTLKwIEx", "PTLENKies"))
   <https://doi.org/10.1515/phys-2023-0151>
   &nbsp;→ R package: [PTLENKies](https://github.com/Otodji/PTLENKies)
 
-## Tools
+## Awards and distinctions
 
-R · MATLAB · LaTeX · Git
+- 🏆 **Best technological innovation** — UNSTIM (Benin), for the PTLENKies package for engineering and biotechnology
+- 🏆 **Best innovative project** — CEA-SMIA / IMSP (Dangbo), for a high-performance calculator for macroeconomic data
+- 🎓 **Africa TechUp Tour 2025 scholar** — 54Bridges & ISHEERO (06/2025)
+- UEMOA researchers' capacity-building programme — BCEAO / COFEB (05/2025)
+- Public speaking certificate — EuroCham, Cotonou (05/2025)
+
+## Conferences and seminars
+
+- **Bernoulli–IMS 11th World Congress in Probability and Statistics** — Ruhr University Bochum, Germany (08/2024)
+- Seminar on a new family of distributions — International Chair in Mathematical Physics and Applications, University of Abomey-Calavi (07/2025)
+- AISER school conference: presentation of the ARESS case study — Cotonou (07/2024)
+- Masterclass on AI and banking cybersecurity — BCEAO–COFEB / HEC Paris (04/2026)
+
+## Skills
+
+| Area | Tools |
+|:---|:---|
+| Programming | Python, R, SQL, C, MATLAB, Mathematica, LaTeX, STATA, SPSS |
+| Data platforms and environments | Databricks, Jupyter, RStudio, VS Code, Google Colab, QGIS |
+| Visualisation | Power BI, Tableau, Grafana, Excel |
+| Artificial intelligence | NLP, Computer Vision |
+| Languages | French (native), English (intermediate) |
 
 ## Contact
 
+- Email: otodjitheodule@gmail.com
 - ORCID: <https://orcid.org/0009-0003-0389-9007>
-- Questions about a package: open an issue on its repository
+- LinkedIn: Théophile Otodji
