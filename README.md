@@ -3,7 +3,7 @@
 
 **Data Scientist Engineer (Finance) · Researcher in Applied Mathematics**
 
-📍 Paris Saclay, Evry, France &nbsp;·&nbsp; [ORCID 0009-0003-0389-9007](https://orcid.org/0009-0003-0389-9007)
+📍 Paris Saclay, France &nbsp;·&nbsp; [ORCID 0009-0003-0389-9007](https://orcid.org/0009-0003-0389-9007)
 
 ## About me
 
