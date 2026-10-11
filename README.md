@@ -1,9 +1,9 @@
 ## Hi there 👋
-# Théophile OTODJI
+#  Ing. Théophile OTODJI
 
 **Data Scientist Engineer (Finance) · Researcher in Applied Mathematics**
 
-📍 ARESS, Cotonou, Benin &nbsp;·&nbsp; [ORCID 0009-0003-0389-9007](https://orcid.org/0009-0003-0389-9007)
+📍 Paris Saclay, Evry, France &nbsp;·&nbsp; [ORCID 0009-0003-0389-9007](https://orcid.org/0009-0003-0389-9007)
 
 ## About me
 
