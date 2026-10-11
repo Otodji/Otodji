@@ -138,4 +138,4 @@ training in R, Python and Mathematica.
 
 - Email: otodjitheodule@gmail.com
 - ORCID: <https://orcid.org/0009-0003-0389-9007>
-- LinkedIn: Théophile Otodji
+- LinkedIn: www.linkedin.com/in/théophile-otodji-3abba8293
