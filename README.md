@@ -81,13 +81,13 @@ training in R, Python and Mathematica.
   *La Matematica*, 5(3), 59.
   <https://doi.org/10.1007/s44007-026-00241-w>
 
-- Atchadé, M. N., Kossou, E. Z., **Otodji, T.**, Bogninou, M. J., & Djibril, A. M. (2026).
+**2025**
+
+- Atchadé, M. N., Kossou, E. Z., **Otodji, T.**, Bogninou, M. J., & Djibril, A. M. (2025).
   Modeling Economics and Finance Data with the Arctan Marshall-Olkin Weibull
   Distribution.
   *Annals of Data Science*, 13, 1103–1136.
   <https://doi.org/10.1007/s40745-025-00610-2>
-
-**2025**
 
 - Atchadé, M. N., Zoffoun, G. B., Bogninou, M. J., **Otodji, T.**, & Djibril, A. M. (2025).
   The Generalized Unit Weibull Distribution: Properties, Estimation, and
