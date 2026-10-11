@@ -4,6 +4,8 @@
 
 📍 Paris area, France &nbsp;·&nbsp; [ORCID 0009-0003-0389-9007](https://orcid.org/0009-0003-0389-9007) &nbsp;·&nbsp; otodjitheodule@gmail.com
 
+🌐 **Portfolio: [otodji.github.io](https://otodji.github.io)**
+
 ## About me
 
 I am a statistics and finance engineer, currently completing a Master 2 in Data
@@ -32,6 +34,14 @@ research into open-source software.
 ```r
 install.packages(c("NTLKwIEx", "PTLENKies"))
 ```
+
+## Machine learning and statistical computing
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| [**TP_Machine_Learning**](https://github.com/Otodji/TP_Machine_Learning) | Complete supervised-learning lab on real data (SAheart, Adult): Bayes rule, bias-variance, cross-validation, LDA/QDA, k-NN, CART, random forests, boosting, algorithmic fairness, ROC and precision-recall | Python, scikit-learn, pandas |
+| [**tp-deep-learning**](https://github.com/Otodji/tp-deep-learning) | Computational graphs and backpropagation side by side in NumPy, PyTorch, TensorFlow and Keras, up to a full FashionMNIST classifier | PyTorch, TensorFlow, Keras |
+| [**Simulation_Monte_Carlo_PTLENKies**](https://github.com/Otodji/Simulation_Monte_Carlo_PTLENKies) | Simulation, maximum-likelihood estimation and goodness-of-fit tests (KS, Cramér-von Mises, Anderson-Darling) with parametric bootstrap for the Burr-PTLEN distribution | Python, SciPy |
 
 ## Experience
 
@@ -131,11 +141,12 @@ training in R, Python and Mathematica.
 | Programming | Python, R, SQL, C, MATLAB, Mathematica, LaTeX, STATA, SPSS |
 | Data platforms and environments | Databricks, Jupyter, RStudio, VS Code, Google Colab, QGIS |
 | Visualisation | Power BI, Tableau, Grafana, Excel |
-| Artificial intelligence | NLP, Computer Vision |
+| Machine learning and AI | scikit-learn, PyTorch, TensorFlow / Keras, NLP, Computer Vision |
 | Languages | French (native), English (intermediate) |
 
 ## Contact
 
 - Email: otodjitheodule@gmail.com
 - ORCID: <https://orcid.org/0009-0003-0389-9007>
-- LinkedIn: www.linkedin.com/in/théophile-otodji-3abba8293
+- LinkedIn: <https://www.linkedin.com/in/th%C3%A9ophile-otodji-3abba8293>
+- Portfolio: <https://otodji.github.io>
