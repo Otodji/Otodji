@@ -121,16 +121,16 @@ training in R, Python and Mathematica.
 
 ## Awards and distinctions
 
--  **Best technological innovation** — UNSTIM (Benin), for the PTLENKies package for engineering and biotechnology
--  **Best innovative project** — CEA-SMIA / IMSP (Dangbo), for a high-performance calculator for macroeconomic data
--  **Africa TechUp Tour 2025 scholar** — 54Bridges & ISHEERO (06/2025)
-- UEMOA researchers' capacity-building programme — BCEAO / COFEB (05/2025)
+-  **Best technological innovation**, UNSTIM (Benin), for the PTLENKies package for engineering and biotechnology
+-  **Best innovative project**, CEA-SMIA / IMSP (Dangbo), for a high-performance calculator for macroeconomic data
+-  **Africa TechUp Tour 2025 scholar**, 54Bridges & ISHEERO (06/2025)
+- UEMOA researchers' capacity-building programme, BCEAO / COFEB (05/2025)
 - Public speaking certificate — EuroCham, Cotonou (05/2025)
 
 ## Conferences and seminars
 
-- **Bernoulli–IMS 11th World Congress in Probability and Statistics** — Ruhr University Bochum, Germany (08/2024)
-- Seminar on a new family of distributions — International Chair in Mathematical Physics and Applications, University of Abomey-Calavi (07/2025)
+- **Bernoulli–IMS 11th World Congress in Probability and Statistics**, Ruhr University Bochum, Germany (08/2024)
+- Seminar on a new family of distributions, International Chair in Mathematical Physics and Applications, University of Abomey-Calavi (07/2025)
 - AISER school conference: presentation of the ARESS case study — Cotonou (07/2024)
 - Masterclass on AI and banking cybersecurity — BCEAO–COFEB / HEC Paris (04/2026)
 
