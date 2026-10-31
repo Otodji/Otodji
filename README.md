@@ -45,20 +45,20 @@ install.packages(c("NTLKwIEx", "PTLENKies"))
 
 ## Experience
 
-**Data Intelligence & Optimisation Officer** — ARESS SAS, Cotonou (Benin) & France · *05/2025 – 09/2026*
+**Data Intelligence & Optimisation Officer** : ARESS SAS, Cotonou (Benin) & France · *05/2025 – 09/2026*
 Reported directly to the CEO: sales analysis, business intelligence, evaluation
 of technical offers and monthly KPI reporting. Built management tools and
 energy-fraud detection algorithms.
 
-**Lecturer** — African School of Economics, Cotonou (Benin) · *05/2026 – 06/2026*
+**Lecturer** : African School of Economics, Cotonou (Benin) · *05/2026 – 06/2026*
 Designed and taught 25 hours of Probability and 25 hours of Sampling Theory to
 first-year students in Economics-Statistics and Computer Science-Statistics.
 
-**Data Analyst** — ARESS SAS, Cotonou (Benin) & France · *02/2024 – 05/2025*
+**Data Analyst** : ARESS SAS, Cotonou (Benin) & France · *02/2024 – 05/2025*
 Analysis of unpaid receivables and modeling of the Pay-As-You-Go scheme. Built a
 data collection tool with Kobo Collect and sales-trend prediction models.
 
-**Research internships** — UNESCO Chair (ICMPA), Abomey-Calavi · *06/2023 – 12/2023* and MIFY, Abomey-Calavi · *08/2022 – 10/2022*
+**Research internships** : UNESCO Chair (ICMPA), Abomey-Calavi · *06/2023 – 12/2023* and MIFY, Abomey-Calavi · *08/2022 – 10/2022*
 Statistical distribution theory, machine learning and deep learning; advanced
 training in R, Python and Mathematica.
 
