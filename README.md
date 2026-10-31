@@ -1,6 +1,6 @@
 # Théophile OTODJI
 
-**MSc Data Science (Finance track) at Université Paris-Saclay · Data Analyst · Researcher in Applied Statistics**
+**MSc Data Science at Université Paris-Saclay · Data Analyst · Researcher in Applied Statistics**
 
 Paris area, France &nbsp;·&nbsp; [ORCID 0009-0003-0389-9007](https://orcid.org/0009-0003-0389-9007) &nbsp;·&nbsp; otodjitheodule@gmail.com
 
