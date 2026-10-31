@@ -19,10 +19,10 @@ research into open-source software.
 
 **At a glance**
 
-- 📦 Author and maintainer of **2 R packages** published on CRAN
-- 📄 Co-author of **6 articles** in international peer-reviewed journals
-- 💼 About **3 years** of industry experience in data analysis and business intelligence
-- 🎓 Lecturer in Probability and Sampling Theory (African School of Economics)
+- Author and maintainer of **2 R packages** published on CRAN
+- Co-author of **6 articles** in international peer-reviewed journals
+- About **3 years** of industry experience in data analysis and business intelligence
+- Lecturer in Probability and Sampling Theory (African School of Economics)
 
 ## R packages
 
@@ -121,9 +121,9 @@ training in R, Python and Mathematica.
 
 ## Awards and distinctions
 
-- 🏆 **Best technological innovation** — UNSTIM (Benin), for the PTLENKies package for engineering and biotechnology
-- 🏆 **Best innovative project** — CEA-SMIA / IMSP (Dangbo), for a high-performance calculator for macroeconomic data
-- 🎓 **Africa TechUp Tour 2025 scholar** — 54Bridges & ISHEERO (06/2025)
+-  **Best technological innovation** — UNSTIM (Benin), for the PTLENKies package for engineering and biotechnology
+-  **Best innovative project** — CEA-SMIA / IMSP (Dangbo), for a high-performance calculator for macroeconomic data
+-  **Africa TechUp Tour 2025 scholar** — 54Bridges & ISHEERO (06/2025)
 - UEMOA researchers' capacity-building programme — BCEAO / COFEB (05/2025)
 - Public speaking certificate — EuroCham, Cotonou (05/2025)
 
